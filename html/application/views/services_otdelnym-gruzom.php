@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="pause">
 	</div>
-	<h3>СПАСИБО ЗА ЗАЯВКУ!<br/>
+	<h3>АВТОМОБИЛЬНЫЕ ГРУЗОПЕРЕВОЗКИ ОТДЕЛЬНЫМ ГРУЗОМ<br/>
 	</h3>     
 	<div class="shadowsep">
 	</div>
