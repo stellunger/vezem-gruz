@@ -13,7 +13,7 @@
 
 				<h4>Костанай</h4>
 
-				<p>Перевозим грузы <strong>от 300 кг до 20 тонн.</strong></p>
+				<p>Перевозим грузы <strong>от 300 кг.</strong></p>
 
 				<p><strong>Отправка из:</strong> Екатеринбурга, Перми, Челябинска,
 				Тюмени.</p>
@@ -27,7 +27,7 @@
 
 				<br />
 
-				<p align="center"><strong>Стоимость доставки отдельной машиной</strong></p>
+				<p align="center"><strong>Доставка отдельной машиной</strong></p>
 
 				<table class="bordered" style="text-align:center;" width="100%">
 
@@ -40,18 +40,6 @@
 						<td>до 10 т</td>
 						<td>до 15 т</td>
 						<td>до 20 т</td>
-
-					</tr>
-
-					<tr>
-
-						<td><b>Стоимость доставки,<br />за рейс</b></td>	
-						<td>от 12 000 р</td>
-						<td>от 16 000 р</td>
-						<td>от 19 000 р</td>
-						<td>от 24 000 р</td>
-						<td>от 27 000 р</td>
-						<td>от 29 000 р</td>
 
 					</tr>
 
@@ -71,7 +59,7 @@
 
 				<br /><br />
 
-				<p align="center"><strong>Стоимость доставки в составе сборного груза</strong></p>
+				<p align="center"><strong>Доставка в составе сборного груза</strong></p>
 
 				<table class="bordered" style="text-align:center;" width="100%">
 
@@ -84,18 +72,6 @@
 						<td>1001 - 1500 кг</td>
 						<td>1501 - 3000 кг</td>
 						<td>3001 - 5000 кг</td>
-
-					</tr>
-
-					<tr>
-
-						<td><b>Стоимость доставки,<br />за кг</b></td>	
-						<td>от 12 р</td>
-						<td>от 11 р</td>
-						<td>от 10 р</td>
-						<td>от 8 р</td>
-						<td>от 6 р</td>
-						<td>от 3,8 р</td>
 
 					</tr>
 

@@ -42,7 +42,7 @@
 <div class="container">
 	<div class="homeshadowsep">
 	</div>
-	<h3 align="center">Звоните! +7 (343) 349-53-37<br/></h3>
+	<h3 align="center">Звоните! +7 (343) 385-12-84<br/></h3>
 	<p align="center"><small>Время работы: понедельник-пятница с 9:00 до 18:00 (MSK +2).</small></p>
 	<div class="homeshadowsep">
 	</div>
@@ -53,7 +53,7 @@
 
 		<div class="span4">
 
-			<h4>Перевозки отдельным грузом</h4>
+			<h4>Перевозка отдельной машиной</h4>
 
 			<p><img src="<?php echo base_url(); ?>img/products/main-01.png"
 			alt="Перевозки отдельным грузом" /></p>
@@ -62,13 +62,13 @@
 			груза отдельной автомашиной от 1,5 до 25 тонн, от 12 до 120 м3.</p>
 
 			<p><a href="<?php echo base_url(); ?>services/otdelnym-gruzom" class="btn btn-success">
-			Отдельным грузом <i class="icon-share-alt icon-white"></i></a></p>	
+			Отдельная машина <i class="icon-share-alt icon-white"></i></a></p>	
 
 		</div>
 
 		<div class="span4">
 
-			<h4>Перевозки в составе сборного груза</h4>
+			<h4>Перевозка сборным грузом</h4>
 
 			<p><img src="<?php echo base_url(); ?>img/products/main-02.png"
 			alt="Перевозки в составе сборного груза" /></p>
@@ -77,11 +77,11 @@
 			сборного груза. Максимально выгодная стоимость!</p>
 
 			<p><a href="<?php echo base_url(); ?>services/sbornym-gruzom" class="btn btn-success">
-			В сборном грузе <i class="icon-share-alt icon-white"></i></a></p>
+			Сборный груз <i class="icon-share-alt icon-white"></i></a></p>
 
 		</div>
 		
-		<div class="span4">
+		<!--<div class="span4">
 			<h4 class="center"><img src="<?php echo base_url(); ?>img/turnright.png" class="rightpad" alt="">Оформить заявку</h4>
 			<div class="smallpause"></div>
 			<div class="block">								
@@ -123,6 +123,6 @@
 				</form>
 				</div>
 			</div>
-		</div>
+		</div>-->
 	</div>	
 </div>

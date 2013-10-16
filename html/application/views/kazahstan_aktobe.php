@@ -13,7 +13,7 @@
 
 				<h4>Актобе</h4>
 
-				<p>Перевозим грузы <strong>от 300 кг до 20 тонн.</strong></p>
+				<p>Перевозим грузы <strong>от 300 кг.</strong></p>
 
 				<p><strong>Отправка из:</strong> Екатеринбурга, Перми, Челябинска,
 				Тюмени.</p>
@@ -27,7 +27,7 @@
 
 				<br />
 
-				<p align="center"><strong>Стоимость доставки отдельной машиной</strong></p>
+				<p align="center"><strong>Доставка отдельной машиной</strong></p>
 
 				<table class="bordered" style="text-align:center;" width="100%">
 
@@ -41,19 +41,7 @@
 						<td>до 15 т</td>
 						<td>до 20 т</td>
 
-					</tr>
-
-					<tr>
-
-						<td><b>Стоимость доставки,<br />за рейс</b></td>	
-						<td>от 21 000 р</td>
-						<td>от 28 000 р</td>
-						<td>от 33 000 р</td>
-						<td>от 40 000 р</td>
-						<td>от 45 000 р</td>
-						<td>от 52 000 р</td>
-
-					</tr>
+					</tr>				
 
 					<tr>
 
@@ -71,7 +59,7 @@
 
 				<br /><br />
 
-				<p align="center"><strong>Стоимость доставки в составе сборного груза</strong></p>
+				<p align="center"><strong>Доставка в составе сборного груза</strong></p>
 
 				<table class="bordered" style="text-align:center;" width="100%">
 
@@ -86,19 +74,7 @@
 						<td>3001 - 5000 кг</td>
 
 					</tr>
-
-					<tr>
-
-						<td><b>Стоимость доставки,<br />за кг</b></td>	
-						<td>от 20,8 р</td>
-						<td>от 17,1 р</td>
-						<td>от 15,1 р</td>
-						<td>от 11,1 р</td>
-						<td>от 7,1 р</td>
-						<td>от 4,8 р</td>
-
-					</tr>
-
+				
 					<tr>
 
 						<td><b>Срок доставки</b></td>	
